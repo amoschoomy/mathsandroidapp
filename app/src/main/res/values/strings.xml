@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Maths Challenge</string>
+    <string name="player_avatar">Player Avatar</string>
+    <string name="welcome">Welcome</string>
+    <string name="Start">Start</string>
+    <string name="Resume">Resume</string>
+    <string name="Challenges">Challenges</string>
+    <string name="Rate">Rate this app</string>
+    <string name="description">App Main Image</string>
+    <string name="next">Next</string>
+    <string name="submit">Submit</string>
+</resources>
